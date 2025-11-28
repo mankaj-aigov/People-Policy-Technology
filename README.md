@@ -47,6 +47,9 @@ A cross-disciplinary synthesis grounded in 20+ years of leadership across techno
 
 *Note: This is an independent, self-directed study. It is not affiliated with or commissioned by any organisation, and it remains unpublished. Shared openly for learning, transparency, and collaborative research.*
 
+**2-Page Summary — Frontier LLM Behavioural Architecture**  
+[Download Summary PDF](reports/Frontier-LLM-Behavioural-Architecture-Summary.pdf)
+
 ---
 
 ## 📚 How to Cite This Work
